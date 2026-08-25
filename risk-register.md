@@ -23,3 +23,4 @@ Risk Score = Likelihood × Impact
 | Ransomware | Employee Laptops / TMS / Backup System | 5 | 5 | 25 | Critical |
 | Unauthorized Access / Excessive Permissions | Cloud File Storage / TMS | 3 | 4 | 12 | High |
 | Insecure Wi-Fi / Network Access | Office Wi-Fi Network | 2 | 3 | 6 | Medium |
+| Data Loss / Backup Failure | Backup System / Customer Database | 2 | 4 | 8 | Medium |
